@@ -1,0 +1,5 @@
+*Original Haiku by Liz*
+
+learning how to git
+it's not easy, it's complex
+hopefully this works
